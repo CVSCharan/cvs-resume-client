@@ -1,0 +1,66 @@
+.contact {
+    height: 100%;
+    width: 100%;
+    padding: 20px;
+}
+
+.contact-form {
+    width: 50%;
+    height: 80%;
+    align-self: flex-end;
+    margin-top: 100px;
+}
+
+.button {
+    margin: 20px;
+    height: 50px;
+    width: 200px;
+    font-family: 'Roboto';
+    border-radius: 20px;
+    padding: 7px 7px;
+    border-width: 0px;
+    font-size: 20px;
+    color: #fff;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.button1 {
+    background: grey;
+    align-self: flex-end;
+}
+
+.contact-label {
+    font-family: 'Roboto';
+    font-size: 25px;
+    margin: 7px;
+    color: black;
+    letter-spacing: 2px;
+}
+
+.contact-input {
+    font-family: 'Roboto';
+    margin: 7px;
+    border-radius: 10px;
+    padding: 15px;
+    border-width: 0px;
+    letter-spacing: 1px;
+    background-color: lightgray;
+    color: black;
+}
+
+.contact-span {
+    font-family: 'Roboto';
+    font-size: 25px;
+    color: black;
+    letter-spacing: 2px;
+}
+
+.contact-error-msg {
+    font-family: 'Fondamento', cursive;
+    font-size: 17px;
+    color: red;
+    letter-spacing: 2px;
+    margin: 7px;
+}
